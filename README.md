@@ -12,6 +12,13 @@ This project is a collaborative collection of blocks where each block represents
 
 These blocks are displayed on a simple webpage hosted via `index.html`.
 
+## Prerequisites
+
+Before you begin, make sure you have:
+- Git installed on your local machine.
+- A code editor (such as VS Code).
+- A GitHub account.
+  
 ## How to Contribute
 
 Follow these steps to add your favorite brand to the project:
